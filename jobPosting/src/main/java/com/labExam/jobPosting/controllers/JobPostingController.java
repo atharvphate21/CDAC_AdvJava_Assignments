@@ -66,10 +66,5 @@ public class JobPostingController {
 				
 	}
 	
-//	"jobTitle":"SWE-2",
-//    "companyName": " Baraskar Tech soft",
-//    "location":"  Santa Clara",
-//    "dsecription": " Better job b1000+ job description templates boost exposure,",
-//    "requirements": " Core java, Sql, Adv. Java, Postman, Python ",
-//    "salary": " 600000 "
+
 }
